@@ -1,4 +1,4 @@
-import React, { useCallback, useState } from "react";
+import React, { useState } from "react";
 
 function Buat() {
   const [CountKuiz, setCountKuiz] = useState<number>(1);
